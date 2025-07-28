@@ -35,11 +35,14 @@ Key Insights:
 
 # Purpose
 a)This dashboard helps sports analysts, historians, and enthusiasts:
+
 b)Understand the evolution of the Olympic Games.
+
 c)Analyze gender representation and trends.
+
 d)Examine the typical physical characteristics of Olympic athletes.
 --Identify patterns in age distribution and participation growth.
 
-Data Source
+# Data Source
 Historical Olympic dataset (athlete records, participation details, and demographic data).
 
