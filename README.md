@@ -1,10 +1,10 @@
 # Tableau-The-story-of-Olympics
 <img width="917" height="812" alt="image" src="https://github.com/user-attachments/assets/c5003074-a3ce-447e-8322-e3e6d4e10904" />
 
-##Overview 
+# Overview 
 The dashboard provides a comprehensive exploration of historical Olympic data, offering insights into athlete demographics, participation trends, and better characteristics over time. It aims to highlight key patterns in gender representation, athlete age, and physical attributes, as well as the growth of the Olympics globally.
 
-##Dashboard Components
+# Dashboard Components
 1. Year-wise Predictions
 Description: Displays the growth in the number of athletes and participating countries from 1900 to 2008.
 
@@ -33,7 +33,7 @@ Key Insights:
 --The majority of Olympic athletes fall between the ages of 20–30.
 --A smaller number of athletes compete in older age brackets.
 
-Purpose
+# Purpose
 --This dashboard helps sports analysts, historians, and enthusiasts:
 --Understand the evolution of the Olympic Games.
 --Analyze gender representation and trends.
